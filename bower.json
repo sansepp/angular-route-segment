@@ -1,6 +1,6 @@
 {
   "name": "angular-route-segment-custom",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "main": "build/angular-route-segment.js",
   "ignore": [
     "**/.*",
